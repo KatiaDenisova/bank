@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Bank</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fingerprint_input">Вход по отпечатку пальца</string>
+    <string name="signIn">Вход по логину или паролю</string>
+    <string name="login_name">Ваш логин: Ivan Ivanov</string>
+    <string name="payment_was_successfull">Платеж совершен успешно</string>
+    <string name="Result_payment">Результат платежа</string>
+    <string name="Payment_an_ticket">Оплата авиабилета</string>
+    <string name="Return_to_the_store">Вернуться в магазин</string>
+    <string name="check">ЧЕК</string>
+    <string name="Salary_card">Заработная карта</string>
+    <string name="byn">700,35 BYN</string>
+    <string name="card_number">•••• •••• •••• 2578</string>
+    <string name="dataCard">07/14</string>
+    <string name="payment_of_services">Оплата услуг</string>
+    <string name="Recipient">Получатель</string>
+    <string name="YNP_recipient">УНП получателя</string>
+    <string name="Pay">ОПЛАТИТЬ</string>
+    <string name="YNP_num">678547123</string>
+    <string name="payees_bank">Банк получателя</string>
+    <string name="Total_amount">Итоговая сумма</string>
+    <string name="Num_ticket">Оплата авиабилета 2458488349123</string>
+    <string name="Priorbank">Приорбанк PJCBBY2X</string>
+    <string name="purpose_of_payment">Назначение платежа</string>
+    <string name="bill">BY22PJCB30120907901230000933</string>
+</resources>
