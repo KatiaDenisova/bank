@@ -26,4 +26,6 @@
     <string name="Priorbank">Приорбанк PJCBBY2X</string>
     <string name="purpose_of_payment">Назначение платежа</string>
     <string name="bill">BY22PJCB30120907901230000933</string>
+    <string name="Airline">Авиакомпания</string>
+    <string name="Beneficiarys_account">Счет получателя</string>
 </resources>
