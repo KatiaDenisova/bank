@@ -1,6 +1,7 @@
 package com.example.bank;
 
 import android.graphics.Paint;
+import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.TextView;
@@ -15,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
 //        textView = findViewById(R.id.signIn);
 //        textView.setPaintFlags(textView.getPaintFlags()| Paint.UNDERLINE_TEXT_FLAG);
-
-
+        ViewPager viewPager = findViewById(R.id.viewPagerCard);
+        viewPager.setAdapter(new CustomPagerAdapter(this));
     }
 }
